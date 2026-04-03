@@ -30,6 +30,3 @@ This project demonstrates the ability to clean and transform datasets, build int
 * Technology category contributes the most to profit
 * Certain sub-categories consistently operate at a loss
 * Profitability varies significantly across regions
-
-
-This project demonstrates how Excel can be used as a powerful tool for data analysis, enabling the extraction of meaningful insights to support business decision-making.
